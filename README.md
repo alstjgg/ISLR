@@ -14,8 +14,8 @@
 | ---- | ---------------------------------------------- |
 | 민서 | [@alstjgg](https://github.com/alstjgg) |
 | 대욱 ||
-| 동규 ||
-| 병재 ||
+| 동규 |[@DonggyuL](https://github.com/DonggyuL)|
+| 병재 |[@bj-flora](https://github.com/bj-flora)|
 | 주란 ||
 
 ## 🕐 일정 공지
