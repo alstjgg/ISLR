@@ -8,6 +8,10 @@
 - 실습(exercise)가 있는 경우, 함께 풀어나간다
 - 실습이 없는 경우, 각자 공부해온 것을 발표하며 부족한 부분을 보충한다
 
+## 🎮 실습
+- [ISLR with python](https://github.com/JWarmenhoven/ISLR-python)
+- [Exercise](https://drive.google.com/drive/folders/1BOgckXGtadkKCa2vH25yUbW70kxYoVvY?usp=sharing)
+
 ## 👨‍💻 스터디원
 
 | 이름   | GitHub                                         |
