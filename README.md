@@ -28,10 +28,10 @@
 | 이름   | GitHub                                         |
 | ---- | ---------------------------------------------- |
 | 민서 | [@alstjgg](https://github.com/alstjgg) |
-| 대욱 ||
+| 대욱 |[@Noell00](https://github.com/Noell00)|
 | 동규 |[@DonggyuL](https://github.com/DonggyuL)|
 | 병재 |[@bj-flora](https://github.com/bj-flora)|
-| 주란 ||
+| 주란 |[@Jurannn](https://github.com/Jurannn)|
 
 ## 📅 타임라인
 |회차|날짜|내용|비고|
